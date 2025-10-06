@@ -34,8 +34,8 @@ export default function Home() {
             Minutes
           </motion.h1>
           <p className="text-gray-400 max-w-2xl mx-auto mb-8">
-            Got buggy code from ChatGPT or Copilot? We debug and make your
-            AI-generated projects run smoothly — fast.
+            Got buggy code from ChatGPT, Copilot, Claude or xAI? We debug and
+            make your AI-generated projects run smoothly — fast.
           </p>
           <motion.div
             initial={{ opacity: 0 }}
